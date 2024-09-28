@@ -30,7 +30,7 @@ int BinarySearch(int *arr,int size,int target){
 int main(){
     int arr[] = {1,2,3,4,5,6,7,8,9,10};
     int size = 10;
-    int target = 7;
+    int target = 1;
 
     int indexTarget = BinarySearch(arr,size,target);
 
